@@ -8,6 +8,7 @@ font, and a 1100 × 500 content area.
 - Fixed implementation: skuridin/herdr-gpui at ed0f0f4b3b39265751ab0a56a3990cf34f178ca8.
 - `before.png` and `after.png`: full native windows.
 - `before-detail.png` and `after-detail.png`: 4× close-ups without smoothing.
+- `after-narrow.png`: the minimum native 640 × 500 content area with an enlarged 18 px UI font.
 
 The temporary capture setup uses identical fixture data for both versions.
 The status-bar pixel changes are limited to the port icon and labels.
